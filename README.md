@@ -100,7 +100,7 @@ http://localhost:8001/api/recipes
 
 **Outputs:**
 
-![Home Page](https://drive.google.com/file/d/17RIl0JDGCq7WxjtQfq0UUkea2hfDPHt6/view?usp=sharing)
+![Home Page](https://drive.google.com/uc?export=view&id=17RIl0JDGCq7WxjtQfq0UUkea2hfDPHt6)
 
 
 ---
