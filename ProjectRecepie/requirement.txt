@@ -1,0 +1,23 @@
+# --- Core FastAPI stack ---
+fastapi
+uvicorn
+
+# --- LangChain + Google Gemini ---
+langchain
+langchain-core
+langchain-google-genai
+google-generativeai
+
+# --- MongoDB Driver ---
+pymongo
+
+# --- Pydantic & environment management ---
+pydantic
+python-dotenv
+
+# --- Rate Limiting ---
+slowapi==0.1.9
+
+# --- Optional: Utilities ---
+typing-extensions==4.12.2
+
