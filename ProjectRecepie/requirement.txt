@@ -19,5 +19,8 @@ python-dotenv
 slowapi==0.1.9
 
 # --- Optional: Utilities ---
-typing-extensions==4.12.2
+typing-extensions
+List
+slowapi
+json
 
