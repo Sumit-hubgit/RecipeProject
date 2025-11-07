@@ -28,8 +28,8 @@ An AI-powered recipe management system built with **FastAPI**, **LangChain (Gemi
    ```bash
    pip install -r requirements.txt
    ```
-
-4. **Run the FastAPI server**
+4.Place you GEMINI API in .env file like GEMINI_URI=" "  and MONGO_DB_URI= " " 
+5. **Run the FastAPI server**
 
    ```bash
    uvicorn main:app --port 8001
