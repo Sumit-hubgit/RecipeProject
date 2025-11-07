@@ -1,4 +1,3 @@
-Excellent 👏 — here’s your **README.md** rewritten to look clean, professional, and well-formatted for GitHub:
 
 ---
 
@@ -97,6 +96,12 @@ http://localhost:8001/api/recipes
 2. Run frontend server
 3. Open browser → `http://localhost:5173`
 4. Generate recipes, view saved ones, modify or delete easily
+
+
+**Outputs:**
+
+[!Home Page](https://drive.google.com/file/d/17RIl0JDGCq7WxjtQfq0UUkea2hfDPHt6/view?usp=sharing)
+
 
 ---
 
