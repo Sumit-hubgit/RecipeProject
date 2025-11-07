@@ -16,7 +16,7 @@ pydantic
 python-dotenv
 
 # --- Rate Limiting ---
-slowapi==0.1.9
+slowapi
 
 # --- Optional: Utilities ---
 typing-extensions
