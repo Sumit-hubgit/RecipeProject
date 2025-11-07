@@ -98,10 +98,19 @@ http://localhost:8001/api/recipes
 4. Generate recipes, view saved ones, modify or delete easily
 
 
-**Outputs:**
-**Home Page**
+###Outputs:
+##1.Home Page
 ![Home Page](https://drive.google.com/uc?export=view&id=17RIl0JDGCq7WxjtQfq0UUkea2hfDPHt6)
 
+##2.
+![Recipe Page](https://drive.google.com/uc?export=view&id=12tA-5HP8XfS_f7SMh9ZmVyOW7Z28z8ZG)
+
+
+#3.
+![Details Page](https://drive.google.com/uc?export=view&id=1QStHxrw6KTBvlLd8KSx5h-ECK9bLvIOm)
+
+##4.
+![Modify Option](https://drive.google.com/uc?export=view&id=1CQjdhwkPewFpKXZLDGa5GurPN8n6IVny)
 
 ---
 
